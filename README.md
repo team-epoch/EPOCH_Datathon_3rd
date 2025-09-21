@@ -12,6 +12,7 @@
 > 데이터셋은 이 레포지토리에 업로드되어 있으며, 각 팀은 이를 기반으로 분석을 진행합니다.
 
 ### 파일 목록:
+**Brazilian E-Commerce Public Dataset by Olist**
 * `olist_customers_dataset.csv(고객 및 고객 거주 도시)`
 * `olist_geolocation_dataset.csv(브라질의 위경도)`
 * `olist_order_items_dataset.csv(주문별 구매 상품)`
