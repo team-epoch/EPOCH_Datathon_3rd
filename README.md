@@ -12,15 +12,19 @@
 > 데이터셋은 이 레포지토리에 업로드되어 있으며, 각 팀은 이를 기반으로 분석을 진행합니다.
 
 ### 파일 목록:
-* `olist_customers_dataset.csv`
-* `olist_geolocation_dataset.csv`
-* `olist_order_items_dataset.csv`
-* `olist_order_payments_dataset.csv`
-* `olist_order_reviews_dataset.csv`
-* `olist_orders_dataset.csv`
-* `olist_products_dataset.csv`
-* `olist_sellers_dataset.csv`
-* `product_category_name_translation.csv`
+* `olist_customers_dataset.csv(고객 및 고객 거주 도시)`
+* `olist_geolocation_dataset.csv(브라질의 위경도)`
+* `olist_order_items_dataset.csv(주문별 구매 상품)`
+* `olist_order_payments_dataset.csv(주문별 결제 수단)`
+* `olist_order_reviews_dataset.csv(고객 리뷰)`
+* `olist_orders_dataset.csv(주문 정보)`
+* `olist_products_dataset.csv(판매 상품 정보)`
+* `olist_sellers_dataset.csv(판매자 정보)`
+* `product_category_name_translation.csv(상품 카테고리 영어 번역 버전)`
+
+### Data Schema
+<img width="2486" height="1496" alt="image" src="https://github.com/user-attachments/assets/1b96a6a6-d527-462c-a993-3f40083b556b" />
+
 
 
 ## 제출 가이드라인
