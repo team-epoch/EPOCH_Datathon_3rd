@@ -8,8 +8,10 @@
 
 ## Dataset
 > 본 Datathon에서 사용될 데이터셋은 총 **9개의 CSV 파일**로 구성되어 있습니다. 
+
+> 데이터셋과 각 컬럼에 대한 설명은 [캐글 링크](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)를 통해 확인 가능합니다.
 > 
-> 데이터셋은 이 레포지토리에 업로드되어 있으며, 각 팀은 이를 기반으로 분석을 진행합니다.
+> ⚠️ 다만, 컬럼 설명 외의 코드 및 아이디어 참고는 지양해주세요
 
 ### 파일 목록:
 **Brazilian E-Commerce Public Dataset by Olist**
