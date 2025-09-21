@@ -7,12 +7,20 @@
 > **본 Datathon은 동일한 데이터셋을 기반으로 각 팀별로 각자 주제를 선정 및 데이터 분석을 통하여 최종 결과를 도출합니다.**
 
 ## Dataset
-> 본 Datathon에서 사용될 데이터셋은 총 **n개의 CSV 파일**로 구성되어 있습니다. 
+> 본 Datathon에서 사용될 데이터셋은 총 **9개의 CSV 파일**로 구성되어 있습니다. 
 > 
 > 데이터셋은 이 레포지토리에 업로드되어 있으며, 각 팀은 이를 기반으로 분석을 진행합니다.
 
 ### 파일 목록:
-
+* `olist_customers_dataset.csv`
+* `olist_geolocation_dataset.csv`
+* `olist_order_items_dataset.csv`
+* `olist_order_payments_dataset.csv`
+* `olist_order_reviews_dataset.csv`
+* `olist_orders_dataset.csv`
+* `olist_products_dataset.csv`
+* `olist_sellers_dataset.csv`
+* `product_category_name_translation.csv`
 
 
 ## 제출 가이드라인
