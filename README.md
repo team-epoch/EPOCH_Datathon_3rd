@@ -11,7 +11,7 @@
 
 > 데이터셋과 각 컬럼에 대한 설명은 [캐글 링크](https://www.kaggle.com/datasets/olistbr/brazilian-ecommerce/data)를 통해 확인 가능합니다.
 > 
-> ⚠️ 다만, 컬럼 설명 외의 코드 및 아이디어 참고는 지양해주세요
+> ⚠️ 다만, 컬럼 설명 외의 코드 및 아이디어 참고는 지양해주세요.
 
 ### 파일 목록:
 **Brazilian E-Commerce Public Dataset by Olist**
